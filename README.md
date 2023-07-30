@@ -7,23 +7,23 @@
 
 ## 项目介绍
 
-本项目基于官方修改并且进行了缝合而来，为了帮助您更快捷易懂的部署AList+Aria2在Render上
-，如果是之前Fork的仓库记得更新你Fork的分支
+~~只是一个缝合项目~~
 
-[图文教程](https://v-official-233.github.io/2023/05/02/render%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2alist-aria2/)
+
+### 一键部署到Render 
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
 
 ## 注意
 
 您需要修改一下.yaml文件的git地址，改为您fork仓库的您的仓库https地址
 
-并且您需要在环境变量中添加
+如果是之前部署的您需要在环境变量中添加
 > ```json
 >   "PORT": "5244"
 > ```
 
-### 一键部署到Render 
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 ### 数据库
 
