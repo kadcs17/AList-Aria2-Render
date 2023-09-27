@@ -1,7 +1,3 @@
-# 官方封禁部署 仓库存档
-![](https://picshack.net/ib/Ak4RyXzBNd.jpg)
-
-
 # Alist+Aria2-Render
 
 ## 鸣谢
